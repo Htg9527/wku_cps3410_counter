@@ -1,6 +1,4 @@
-# wku_cps3410_counter!package DQ;
 import java.util.Scanner;
-
 	public class SOR_iterate {
    /* 浮点数乘以二维矩阵 */
 	    private static float[][] multiply3(float w, float[][] data) {
